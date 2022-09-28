@@ -1,25 +1,5 @@
 ## CNCF Community Code of Conduct v1.2
 
-Other languages available:
-- [Arabic/العربية](code-of-conduct-languages/ar.md)
-- [Bulgarian/Български](code-of-conduct-languages/bg.md)
-- [Chinese/中文](code-of-conduct-languages/zh.md)
-- [Czech/Česky](code-of-conduct-languages/cs.md)
-- [Farsi/فارسی](code-of-conduct-languages/fa.md)
-- [French/Français](code-of-conduct-languages/fr.md)
-- [German/Deutsch](code-of-conduct-languages/de.md)
-- [Indonesian/Bahasa Indonesia](code-of-conduct-languages/id.md)
-- [Italian/Italiano](code-of-conduct-languages/it.md)
-- [Japanese/日本語](code-of-conduct-languages/jp.md)
-- [Korean/한국어](code-of-conduct-languages/ko.md)
-- [Polish/Polski](code-of-conduct-languages/pl.md)
-- [Portuguese/Português](code-of-conduct-languages/pt.md)
-- [Russian/Русский](code-of-conduct-languages/ru.md)
-- [Spanish/Español](code-of-conduct-languages/es.md)
-- [Turkish/Türkçe](code-of-conduct-languages/tr.md)
-- [Ukrainian/Українська](code-of-conduct-languages/uk.md)
-- [Vietnamese/Tiếng Việt](code-of-conduct-languages/vi.md)
-
 ### Contributor Code of Conduct
 
 As contributors and maintainers in the CNCF community, and in the interest of fostering
@@ -70,17 +50,7 @@ Conduct may be permanently removed from the project team.
 
 ## Reporting 
 
-For incidents occurring in the Kubernetes community, contact the [Kubernetes Code of Conduct Committee](https://git.k8s.io/community/committee-code-of-conduct) via <conduct@kubernetes.io>. You can expect a response within three business days.
-
-For other projects, or for incidents that are project-agnostic or impact multiple CNCF projects, please contact the [CNCF Code of Conduct Committee](https://www.cncf.io/conduct/committee/) via conduct@cncf.io.  Alternatively, you can contact any of the individual members of the [CNCF Code of Conduct Committee](https://www.cncf.io/conduct/committee/) to submit your report. For more detailed instructions on how to submit a report, including how to submit a report anonymously, please see our [Incident Resolution Procedures](https://www.cncf.io/conduct/procedures/). You can expect a response within three business days.
-
-## Enforcement 
-
-The Kubernetes project's [Code of Conduct Committee](https://github.com/kubernetes/community/tree/master/committee-code-of-conduct) enforces code of conduct issues for the Kubernetes project.
-
-For all projects that do not have their own Code of Conduct Committee or other Code of Conduct incident responders, and for incidents that are project-agnostic or impact multiple projects, the [CNCF Code of Conduct Committee](https://www.cncf.io/conduct/committee/) enforces code of conduct issues. For more information, see our [Jurisdiction and Escalation Policy](https://www.cncf.io/conduct/jurisdiction/)
-
-Both bodies try to resolve incidents without punishment, but may remove people from the project or CNCF communities at their discretion.
+For incidents occurring in the CoP, contact the XXXX via XXX. You can expect a response within three business days.
 
 ## Acknowledgements
 
